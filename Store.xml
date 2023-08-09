@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Título del Feed</title>
+    <link>URL de tu página</link>
+    <description>Descripción del Feed</description>
+    <item>
+      <title>Título de la publicación</title>
+      <link>URL de la publicación</link>
+      <pubDate>Fecha de la publicación</pubDate>
+      <description>Descripción de la publicación</description>
+    </item>
+    <!-- Agrega más elementos "item" para cada publicación -->
+  </channel>
+</rss>
